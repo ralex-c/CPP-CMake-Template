@@ -1,2 +1,2 @@
-# CPP-CMake-Template
-A template for C++ projects which uses CMake
+# C/C++-CMake-Template
+A template for C/C++ projects which uses CMake
